@@ -1,0 +1,16 @@
+C:\Users\saini\Downloads\firstrepository\bin\Debug\net5.0\firstrepository.exe
+C:\Users\saini\Downloads\firstrepository\bin\Debug\net5.0\firstrepository.deps.json
+C:\Users\saini\Downloads\firstrepository\bin\Debug\net5.0\firstrepository.runtimeconfig.json
+C:\Users\saini\Downloads\firstrepository\bin\Debug\net5.0\firstrepository.runtimeconfig.dev.json
+C:\Users\saini\Downloads\firstrepository\bin\Debug\net5.0\firstrepository.dll
+C:\Users\saini\Downloads\firstrepository\bin\Debug\net5.0\ref\firstrepository.dll
+C:\Users\saini\Downloads\firstrepository\bin\Debug\net5.0\firstrepository.pdb
+C:\Users\saini\Downloads\firstrepository\obj\Debug\net5.0\firstrepository.csprojAssemblyReference.cache
+C:\Users\saini\Downloads\firstrepository\obj\Debug\net5.0\firstrepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saini\Downloads\firstrepository\obj\Debug\net5.0\firstrepository.AssemblyInfoInputs.cache
+C:\Users\saini\Downloads\firstrepository\obj\Debug\net5.0\firstrepository.AssemblyInfo.cs
+C:\Users\saini\Downloads\firstrepository\obj\Debug\net5.0\firstrepository.csproj.CoreCompileInputs.cache
+C:\Users\saini\Downloads\firstrepository\obj\Debug\net5.0\firstrepository.dll
+C:\Users\saini\Downloads\firstrepository\obj\Debug\net5.0\ref\firstrepository.dll
+C:\Users\saini\Downloads\firstrepository\obj\Debug\net5.0\firstrepository.pdb
+C:\Users\saini\Downloads\firstrepository\obj\Debug\net5.0\firstrepository.genruntimeconfig.cache
